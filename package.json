@@ -1,0 +1,1 @@
+{"scripts":{"test":"node --test tests/*.test.js","demo":"node src/cli.js"},"type":"module","devDependencies":{}}
